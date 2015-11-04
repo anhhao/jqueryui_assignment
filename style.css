@@ -1,0 +1,11 @@
+.config_panel{
+	width: 500px;
+}
+img {
+	width: 400px;
+	height: 400px;
+}
+.circle {
+	border-radius: 50%;
+}
+
